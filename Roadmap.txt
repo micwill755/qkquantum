@@ -1,0 +1,40 @@
+Phase 1: Small noisy devices (10–50 qubits)
+Phase 2: NISQ era (50–1000+ qubits)  ← WE ARE HERE
+Phase 3: Fault-tolerant quantum computers (millions of qubits)
+Phase 4: Fully scalable quantum advantage
+
+
+is the most fundamental way to describe a qubit state in quantum mechanics. Since you're aiming toward quantum computing, this is basically the “DNA” of quantum information.
+
+3. What are α and β?
+
+(1 + 0.5)^2
+(1 + 0.5) * (1 + 0.5)
+1 + 0.5 + 0.5 + .25 = 2.25
+
+Euler's number
+
+
+
+The limit:
+
+lim​
+n→∞ (1+1​/n)^n = e
+
+equals e^n
+
+Show proof
+
+Logs 
+
+A logarithm answers:
+“What power do I raise the base to, to get this number?”
+log10​(1000) = 3 because 10^3=1000
+
+logs undo exponentials.
+
+Exponentials:
+
+10^3 = 1000 => log10​(1000) = 3 (they are inverse)
+
+logb​(x) = y means means: 𝑏^𝑦 = 𝑥
