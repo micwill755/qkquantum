@@ -20,6 +20,8 @@ Copy
 | i  j  k  l |      |j k l|     |i k l|     |i j l|     |i j k|
 | m  n  o  p |      |n o p|     |m o p|     |m n p|     |m n o|
 
+
+
 '''
 
 def det_3(a):
